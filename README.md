@@ -14,3 +14,7 @@ Fácil, ingresar a este replit público y hacerle fork. https://replit.com/@smur
 
 ### **¿Cómo testear?**
 Run no funciona, en Shell, usar el comando "gcc tdas/*.c tarea2.c -Wno-unused-result -o tarea2" y luego ./tarea2, el programa aparecerá automáticamente. 
+
+
+Estudiantes(s):
+-Ariel Ignacio Villar (20.447.126-6)
