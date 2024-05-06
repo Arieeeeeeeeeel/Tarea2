@@ -8,3 +8,9 @@ En este buscador de películas se podrá cargar películas desde un CSV, mostran
 2. **Buscar por ID** (id): Se ingresa el ID de una película y la aplicación muestra toda la información asociada.
 3. **Buscar por género** (género): Muestra todas las películas que pertenecen al género ingresado.
 4. **Buscar por director**: Muestra todas las películas que pertenecen al director ingresado.
+
+### **¿Cómo ingresar?**
+Fácil, ingresar a este replit público y hacerle fork. https://replit.com/@smurfdoariel/Tarea-2-Map
+
+### **¿Cómo testear?**
+Run no funciona, en Shell, usar el comando "gcc tdas/*.c tarea2.c -Wno-unused-result -o tarea2" y luego ./tarea2, el programa aparecerá automáticamente. 
