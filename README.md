@@ -1,5 +1,5 @@
 # Tarea2
-##Buscador de películas
+## Buscador de películas
 En este buscador de películas se podrá cargar películas desde un CSV, mostrando todas las películas con su nombre, director, año y género. 
 
 ### **Funcionalidades para la aplicación:**
